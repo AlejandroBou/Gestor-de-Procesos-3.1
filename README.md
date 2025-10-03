@@ -87,7 +87,7 @@ NÚMEROS ORDENADOS
 ![Wireframe del metodo aleatorio](PSP01/capturas/Captura-de-pantalla2025-10-03-130233.png)
 
 # Metodo ordenar Numeros 
-![Wireframe del metodo ordenar numeros](PSP01/capturas/Captura-de-pantalla2025-10-03-130233.png)
+![Wireframe del metodo ordenar numeros](PSP01/capturas/Captura-de-pantalla-2025-10-03-130402.png)
 
 ## 🔗 Uso con Tuberías (Pipes)
 
