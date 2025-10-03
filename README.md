@@ -83,8 +83,11 @@ NÚMEROS ORDENADOS
 91
 ```
 ## 🎨 Wireframe
-
+# Metodo Aleatorios
 ![Wireframe del metodo aleatorio](PSP01/capturas/Captura-de-pantalla2025-10-03-130233.png)
+
+# Metodo ordenar Numeros 
+![Wireframe del metodo ordenar numeros](PSP01/capturas/Captura-de-pantalla2025-10-03-130233.png)
 
 ## 🔗 Uso con Tuberías (Pipes)
 
