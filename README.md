@@ -82,6 +82,8 @@ NÚMEROS ORDENADOS
 85
 91
 ```
+## 🎨 Wireframe
+![Wireframe del metodo aleatorio](PSP01/capturas/Captura de pantalla 2025-10-03 130233.png)
 
 ## 🔗 Uso con Tuberías (Pipes)
 
